@@ -1,0 +1,1 @@
+import{n as e}from"./glare.DwEUeabA.js";function t(t){let n=document.documentElement,r=!1,i=()=>{let e=window.scrollY>(n.scrollHeight-window.innerHeight)/2;e!==r&&(r=e,n.classList.toggle(`d-low`,e),document.body.classList.toggle(`d-low`,e))};window.addEventListener(`scroll`,i,{passive:!0}),i(),e(t)}var n=document.querySelector(`.site`);n&&t(n);
