@@ -1,0 +1,1 @@
+import{t as e}from"./glare.cOhbfuxf.js";var t=document.querySelector(`.demo`);{let e=document.documentElement,t=!1,n=()=>{let n=window.scrollY>(e.scrollHeight-window.innerHeight)/2;n!==t&&(t=n,e.classList.toggle(`d-low`,n),document.body.classList.toggle(`d-low`,n))};window.addEventListener(`scroll`,n,{passive:!0}),n()}t&&e(t);

@@ -1,0 +1,1 @@
+import{t as e}from"./glare.cOhbfuxf.js";var t=document.querySelector(`.demo`);t&&e(t);
