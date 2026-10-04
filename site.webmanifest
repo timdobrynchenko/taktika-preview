@@ -1,0 +1,15 @@
+{
+  "name": "Тактика продаж — Алёна Волкова",
+  "short_name": "Тактика продаж",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#00140d",
+  "theme_color": "#00140d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
